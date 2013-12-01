@@ -10,13 +10,17 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.ArrayList;
+=======
+>>>>>>> dbaab9d6fc458205213e28313cbc8cad8efadfce
 =======
 >>>>>>> dbaab9d6fc458205213e28313cbc8cad8efadfce
 import java.util.List;
 
 import javax.swing.RepaintManager;
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 import com.cloud.gatordrive.client.Client;
 
@@ -493,6 +497,8 @@ public class MasterNode {
         }
         
 =======
+=======
+>>>>>>> dbaab9d6fc458205213e28313cbc8cad8efadfce
 public class MasterNode {
 
 	// A file to maintain mapping from filename to FD created using this node
@@ -710,5 +716,8 @@ public class MasterNode {
 
 	}
 
+<<<<<<< HEAD
+>>>>>>> dbaab9d6fc458205213e28313cbc8cad8efadfce
+=======
 >>>>>>> dbaab9d6fc458205213e28313cbc8cad8efadfce
 }
